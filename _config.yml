@@ -1,5 +1,4 @@
 theme: minima
-<!-- （这是一个单行注释）Jekyll 使用名为 _config.yml 的文件来保存站点配置、如主题、网站名称、等设置。theme：使用博客主题minima -->
 title: cyzhu's first blog
 author: cyzhu
 description: cyzhu's first blog
